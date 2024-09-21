@@ -11,7 +11,7 @@
  <h2 id="layout">🎨Project Layout</h2>
  
  <p align="center">
-<img src='./assets/project-demo.png'/> alt="" border="0" width="400px">
+<img src='./assets/project-demo.png' alt="" border="0" width="400px" />
 
 </br>
 
